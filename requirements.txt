@@ -1,2 +1,5 @@
 Flask==2.1.0
 requests==2.18.4
+
+ecdsa~=0.18.0
+cryptography~=40.0.2
